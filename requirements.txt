@@ -1,0 +1,10 @@
+praw
+tweepy
+configparser
+requests
+pathlib
+gfycat
+imageio
+time
+random
+schedule
