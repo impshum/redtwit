@@ -25,3 +25,7 @@ Tweets images/gifs from chosen subreddits
 ### Notes
 
 This script does not work with Giphy yet as it's not needed at this time. If you require this functionality feel free to contact me.
+
+---
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
